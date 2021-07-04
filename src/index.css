@@ -1,0 +1,9 @@
+
+.video>a{
+  color:rgba(1, 1, 143, 0.568);
+  font-size:xx-large;
+  margin-left: 620px;
+}
+.video>a:hover{
+  color: darkgoldenrod;
+}
